@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" alt="Dharmesh Patel Banner" width="100%">
+</p>
 # Hi 👋, I'm Dharmesh Patel
 
 ### 💻 BE Information Technology Student | Java Developer | Web Developer | Python Enthusiast
