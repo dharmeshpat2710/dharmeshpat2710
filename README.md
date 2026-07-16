@@ -75,7 +75,7 @@ I enjoy building real-world software projects and continuously improving my prog
 
 ## 📊 GitHub Stats
 
-![Dharmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharmeshpat2710&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmeshpat2710&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -84,7 +84,6 @@ I enjoy building real-world software projects and continuously improving my prog
 ![GitHub Streak](https://streak-stats.demolab.com?user=dharmeshpat2710&theme=tokyonight)
 
 ---
-
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmeshpat2710&layout=compact&theme=tokyonight)
