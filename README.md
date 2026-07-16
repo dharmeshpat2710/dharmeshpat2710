@@ -73,21 +73,6 @@ HTML • CSS • JavaScript
 
 I enjoy building real-world software projects and continuously improving my programming skills.
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmeshpat2710&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dharmeshpat2710&theme=tokyonight)
-
----
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmeshpat2710&layout=compact&theme=tokyonight)
-
----
 
 ⭐ Thanks for visiting my profile!
